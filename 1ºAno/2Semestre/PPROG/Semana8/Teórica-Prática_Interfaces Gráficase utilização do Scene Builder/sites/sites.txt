@@ -1,0 +1,28 @@
+Aplicação: Scene Builder:  https://docs.oracle.com/javase/8/scene-builder-2/get-started-tutorial/overview.htm
+
+(descarregar):  https://www.oracle.com/java/technologies/javafxscenebuilder-1x-archive-downloads.html
+
+Componentes Gráficos:  https://docs.oracle.com/javase/8/javafx/user-interface-tutorial/ui_controls.htm
+
+Stage:  https://docs.oracle.com/javase/8/javafx/api/javafx/stage/Stage.html
+
+scene: https://docs.oracle.com/javase/8/javafx/scene-graph-tutorial/scenegraph.htm
+
+button:  https://docs.oracle.com/javase/8/javafx/user-interface-tutorial/button.htm
+
+textfild:  https://docs.oracle.com/javase/8/javafx/user-interface-tutorial/text-field.htm
+
+label:  https://docs.oracle.com/javase/8/javafx/user-interface-tutorial/label.htm
+
+alert: https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Alert.html
+
+paneis de posicionamento:  https://docs.oracle.com/javase/8/javafx/layout-tutorial/index.html
+
+broderpane:  https://docs.oracle.com/javase/8/javafx/layout-tutorial/builtin_layouts.htm#sthref9
+
+flowpane:  https://docs.oracle.com/javase/8/javafx/layout-tutorial/builtin_layouts.htm#sthref21
+
+gridpane:  https://docs.oracle.com/javase/8/javafx/layout-tutorial/builtin_layouts.htm#JFXLY118
+
+
+
